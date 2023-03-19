@@ -1,0 +1,8 @@
+count = 1
+while count <= 10:
+  print(count)
+  count += 1
+  
+  Today we learned about the phython code, one of the easier languages of the computer.
+  It was very interesting, and I quickly mastered it.
+  I hope I get to learn more aboat it in another class. 
